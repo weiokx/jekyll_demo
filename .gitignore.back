@@ -1,0 +1,14 @@
+.gitignore
+*.swp
+.idea/
+*~
+*.pyc
+*.log
+*.bak
+.project
+.pydevproject
+.settings
+settings.py
+linux_settings.py
+manage.py
+
